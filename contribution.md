@@ -9,9 +9,9 @@
 
  3.Make sure to add books,coursers,websites,in beginner,intermediate an advanced .
 
- 5.update **README.md** with link to your project
+ 4.update **README.md** with link to your project
 
- 4.make pull request with proper title(otherwise they are closed right away). 
+ 5.make pull request with proper title(otherwise they are closed right away). 
 
 
 
