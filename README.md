@@ -10,6 +10,8 @@
 
 ## Web-Development
 
+>[html](https://github.com/rishabh-malik/learn-html)
+>[css](https://github.com/rishabh-malik/learn-css)
 >[javaScript](https://github.com/Aniket965/learn-javascript)
 
 ## Computer Science
