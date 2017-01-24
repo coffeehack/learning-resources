@@ -21,6 +21,7 @@
 ## Android Development
 
 - [Android Development](https://github.com/rishabh-malik/learn-AndroidDevelopment)
+- [Android Animation](https://github.com/Aniket965/learn-android-animations)
 
 ## Artificial Intelligence
 
