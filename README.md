@@ -7,8 +7,8 @@
 ## Content
 - [Web Development](#web-development)
 - [Computer Science](#computer-science)
-- [Android Development](https://github.com/rishabh-malik/learn-AndroidDevelopment)
-
+- [Android-development](#android-development)
+- [Artificial Intelligence](#artificial-intelligence)
 ## Web-Development
 
 - [html](https://github.com/rishabh-malik/learn-html)
@@ -17,6 +17,13 @@
 
 ## Computer Science
 
+## Android Development
+
+- [Android Development](https://github.com/rishabh-malik/learn-AndroidDevelopment)
+
+## Artificial Intelligence
+
+- [Artificial Intelligence](https://github.com/rishabh-malik/learn-Artificial.Intelligence)
 
 
 
